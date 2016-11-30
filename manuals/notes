@@ -1,0 +1,21 @@
+datasheets:
+http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet_complete.pdf
+http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet_summary.pdf
+
+
+arduino uno schematics:
+http://arduino.cc/en/uploads/Main/arduino-uno-schematic.pdf
+
+
+avr-libc manual:
+http://nongnu.askapache.com//avr-libc/avr-libc-user-manual-2.0.0.tar.bz2
+
+
+articles:
+1. how to program an 8-bit microcontroller using c language
+   http://www.atmel.com/images/avr_3_04.pdf
+
+2. cduino - a brief tutorial on programming the ATMega (Arduino) without Arduino Software
+   http://brittonkerin.com/cduino/lessons.html
+   http://brittonkerin.com/cduino/home_page.html
+
